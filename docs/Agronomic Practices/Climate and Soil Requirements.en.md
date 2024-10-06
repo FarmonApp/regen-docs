@@ -1,0 +1,19 @@
+# Climate and Soil Requirements
+
+Camelina is a resilient oilseed crop that thrives in well-drained, moderately fertile soils and prefers cool, semi-arid climates, making it ideal for regions with temperate conditions and marginal soils.
+
+## Soil Requirements
+
+- **Soil Type**: Adaptable to a range of soils but performs best in well-drained sandy loams.
+- **Soil Fertility**: Requires moderate fertility; excessive nitrogen can cause lodging.
+- **Soil pH**: Prefers neutral to slightly alkaline soils (pH 6.0–7.5).
+- **Drainage**: Sensitive to waterlogged conditions; good drainage is essential.
+- **Marginal Lands**: Its ability to grow in less fertile soils offers a rotation option for farmers aiming to improve soil health.
+
+## Climate Requirements
+
+- **Temperature**: Optimal growth between 10°C and 26°C (50°F–79°F).
+- **Rainfall**: Low to moderate rainfall; drought-tolerant once established.
+- **Frost Tolerance**: Can withstand light frosts; suitable for early spring planting.
+- **Growing Season**: Short growing season of 85–100 days.
+- **Drought Tolerance**: Camelina’s drought tolerance makes it suitable for semi-arid regions.
