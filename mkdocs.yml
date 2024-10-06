@@ -21,19 +21,33 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-extra:
-  alternate:
-    - name: English
-      link: /en/
-      lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-    - name: Español
-      link: /es/
-      lang: es
-    - name: Français
-      link: /fr/
-      lang: fr
+    - navigation.footer
+# extra:
+  # alternate:
+  #   - name: English
+  #     link: /en/
+  #     lang: en
+  #   - name: Deutsch
+  #     link: /de/
+  #     lang: de
+  #   - name: Español
+  #     link: /es/
+  #     lang: es
+  #   - name: Français
+  #     link: /fr/
+  #     lang: fr
+  # generator: false
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+
+copyright: Copyright &copy; 2024 RegenRate
