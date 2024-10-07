@@ -49,5 +49,14 @@ plugins:
         - locale: fr
           name: Français
           build: true
+        - locale: es
+          name: Español
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+        - locale: nl
+          name: Nederlands
+          build: true
 
 copyright: Copyright &copy; 2024 RegenRate
