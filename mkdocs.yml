@@ -11,8 +11,6 @@ theme:
   logo: assets/logo.svg
   favicon: images/favicon.png
   features:
-    - navigation.instant
-    - navigation.instant.prefetch
     - navigation.tracking
     - navigation.sections
     - navigation.expand
