@@ -1,5 +1,5 @@
 site_name: Camelina
-site_url: https://regenrate.org/camelina
+site_url: https://grow.regenrate.com
 extra_css:
   - stylesheets/extra.css
 theme:
