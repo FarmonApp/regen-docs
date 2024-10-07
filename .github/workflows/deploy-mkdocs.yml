@@ -22,9 +22,6 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material mkdocs-static-i18n[material] mkdocs-video
 
-      - name: Add CNAME for custom domain
-        run: echo "grow.regenrate.com" > docs/CNAME
-
       - name: Deploy to GitHub Pages
         run: |
           mkdocs gh-deploy --force
