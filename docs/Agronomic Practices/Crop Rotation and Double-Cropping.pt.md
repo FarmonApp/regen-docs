@@ -1,0 +1,1 @@
+Claro, estou aqui para ajudar! Por favor, forneça o texto em inglês que você gostaria que eu traduza para o português.
