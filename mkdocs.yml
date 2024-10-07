@@ -20,22 +20,8 @@ theme:
     - search.highlight
     - search.share
     - navigation.footer
-# extra:
-  # alternate:
-  #   - name: English
-  #     link: /en/
-  #     lang: en
-  #   - name: Deutsch
-  #     link: /de/
-  #     lang: de
-  #   - name: Español
-  #     link: /es/
-  #     lang: es
-  #   - name: Français
-  #     link: /fr/
-  #     lang: fr
-  # generator: false
 plugins:
+  - social
   - search
   - i18n:
       docs_structure: suffix

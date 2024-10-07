@@ -1,0 +1,1 @@
+Natürlich! Fühlen Sie sich frei, den englischen Text, den Sie ins Deutsche übersetzen möchten, hier zu posten.

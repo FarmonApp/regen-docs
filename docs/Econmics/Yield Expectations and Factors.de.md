@@ -1,0 +1,1 @@
+# Ertragserwartungen und Faktoren
