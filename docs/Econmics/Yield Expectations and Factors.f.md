@@ -1,1 +1,0 @@
-# Attentes de Rendement et Facteurs

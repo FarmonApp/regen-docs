@@ -1,0 +1,1 @@
+Bien sûr, je suis prêt à vous aider ! Veuillez fournir le texte en anglais que vous souhaitez traduire en français.
