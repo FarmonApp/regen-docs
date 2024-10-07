@@ -1,0 +1,1 @@
+# Verwachtingen en Factoren van Opbrengst

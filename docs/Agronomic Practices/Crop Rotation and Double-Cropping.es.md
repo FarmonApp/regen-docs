@@ -1,0 +1,1 @@
+¡Claro! Por favor, proporciona el texto en inglés que te gustaría traducir al español.

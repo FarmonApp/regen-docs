@@ -1,0 +1,1 @@
+Het lijkt erop dat je geen tekst hebt ingevoerd om te vertalen. Voeg alsjeblieft de Engelse markdown-tekst toe die je vertaald wilt hebben naar het Nederlands, en ik help je graag verder!
