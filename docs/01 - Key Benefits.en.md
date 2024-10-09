@@ -16,3 +16,5 @@ Camelina can be used as an intermediate summer crop or a cover crop, offering fl
 - **Soil Health**: If not harvested, it functions as a highly effective cover crop that prevents soil erosion, captures nitrates, and enhances soil structure.
 - **Sustainable Farming**: Replaces fallow periods with a productive cover crop that improves the land for the next planting season.
 - **Reduced Inputs**: Requires minimal inputs due to its low nutrient and water needs, making it economically even with slightly lower yields.
+
+Do some change
