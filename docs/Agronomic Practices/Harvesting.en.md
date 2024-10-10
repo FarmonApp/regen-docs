@@ -4,8 +4,8 @@
 
 Camelina requires low-speed combine settings to avoid seed loss. Swathing may be necessary if 75% of the pods have yellowed.
 
-- **Combine Settings**: Operate at a low speed (3-4 km/h) and use a low airflow to avoid seed loss. Camelina seeds are lightweight, so careful adjustments are required.
-- **Swathing**: Consider swathing when 75% of the pods have yellowed, approximately 2-3 weeks after flowering. Cut the plants about 20-25 cm above the ground for better aeration. Harvest 1 week after swathing, paying attention to weather conditions like wind and rain.
+- **Combine Settings**: Operate at a low speed (3-4 km/h) and use a low airflow to avoid seed loss. Camelina seeds are lightweight, so careful adjustments of the fan are required.
+- **Swathing**: Consider swathing when 75% of the pods have yellowed, approximately 2-3 weeks after flowering. Cut the plants about 20-25 cm above the ground for better aeration. Harvest 1 week after swathing, paying attention to weather conditions like wind and rain. But typically swathing is not required. 
 
 ## Maturity for Harvest
 
