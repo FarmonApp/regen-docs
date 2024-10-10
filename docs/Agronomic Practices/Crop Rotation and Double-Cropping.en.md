@@ -11,7 +11,7 @@ Camelina being a short season crop that is drought tolerant and has both winter 
 
 ## Relay Cropping
 
- - **Winter Camelina**: Camelina has been succesfully relay cropped with soybeans. Soybeans are interplanted in the spring before caelina stem elongation occurs, in rows left empty within the camelina. The camelina is then direct harested and the soybeans grow throughout the summer season. There is potential for other crops to be relay cropped with camelina depending on the climate and season.
+ - **Winter Camelina**: Camelina has been succesfully relay cropped with soybeans. Soybeans are interplanted in the spring before camelina stem elongation occurs, in rows left empty within the camelina. The camelina is then direct harested and the soybeans grow throughout the summer season. There is potential for other crops to be relay cropped with camelina depending on the climate and season.
 
 ## Intercropping
 
