@@ -1,5 +1,5 @@
 # Crop Rotations
-Camelina being a short season crop that is drought tolerant and has both winter hardy and spring biotypes has the ability to fit into many different places in a crop rotation based on the climate and typical crop rotations. It can be a main crop, double cropped, relay cropped or intercropped. It is also used as a cover crop, and is often included in cover crop seed mixes. One of the biggest interests is as a cover crop that is also a cash crop, offering a new income source for farmers.
+Camelina is a short season, drought tolerant crop that has both winter and spring biotypes. This leads to flexibility and many different places in a crop rotation where it can be grown. It can be a main crop, double cropped, relay cropped or intercropped. It is also used as a cover crop, and is often included in cover crop seed mixes. One of the biggest interests is as a cover crop that is also a cash crop, offering a new income source for farmers.
 
 ## Main Crop
 - **Spring Camelina**: Camelina works well as a main crop. Typically spring camelina is seeded in the late winter or early spring when the soil can first be worked and harvested in late spring to mid summer depending on climate and temperature. 
